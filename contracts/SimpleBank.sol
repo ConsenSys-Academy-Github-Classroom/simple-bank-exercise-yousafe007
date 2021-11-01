@@ -11,6 +11,8 @@ contract SimpleBank {
     /* State variables
      */
     
+    //Checking sync option
+    
     
     // Fill in the visibility keyword. 
     // Hint: We want to protect our users balance from other contracts
